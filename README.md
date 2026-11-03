@@ -310,8 +310,8 @@ https://github.com/OrangeAFK/ieee-utd-risc-v
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/OrangeAFK/ieee-utd-risc-v.git
-cd ieee-utd-risc-v
+git clone https://github.com/anindyaranindya-beep/IEEE-SSCS-RV32IM.git
+cd IEEE-SSCS-RV32IM
 ```
 
 ### Creating a Branch

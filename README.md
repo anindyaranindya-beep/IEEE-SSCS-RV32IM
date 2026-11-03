@@ -294,7 +294,7 @@ Each team develops its RTL using a separate Git branch.
 
 ### Repository
 
-https://github.com/OrangeAFK/ieee-utd-risc-v
+https://github.com/anindyaranindya-beep/IEEE-SSCS-RV32IM
 
 ### Branch Names
 

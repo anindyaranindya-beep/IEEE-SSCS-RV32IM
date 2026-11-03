@@ -357,7 +357,7 @@ Changes are reviewed before merging into `main`.
 6. Run Behavioral Simulation.
 7. Inspect simulation logs, register values, and waveforms.
 
-The initial template includes placeholder logic , so the CPU will not function correctly until the implementations are completed.
+The initial template includes placeholder logic, so the CPU will not function correctly until the implementations are completed.
 
 The reference implementation requires compilation and functional verification before being considered complete.
 

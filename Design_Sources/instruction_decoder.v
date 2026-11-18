@@ -10,12 +10,12 @@ module instruction_decoder (
     output wire [4:0] rd
 );
 
-    assign opcode = 0;
-    assign funct3 = 0;
-    assign funct7 = 0;
+    assign opcode = instruction[6:0];
+    assign funct3 = instruction[14:12];
+    assign funct7 = instruction[31:25];
 
-    assign rs1 = 0;
-    assign rs2 = 0;
-    assign rd = 0;
+    assign rs1 = instruction[19:15];
+    assign rs2 = instruction[24:20];
+    assign rd = instruction[11:7];
 
 endmodule

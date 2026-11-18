@@ -1,3 +1,0 @@
-VCD info: dumpfile omar_tests.vcd opened for output.
-PASS: 2191 checks completed.
-tb_omar.v:135: $finish called at 2191000 (1ps)
